@@ -1,0 +1,31 @@
+body {
+	background-color: #f1f1f1;
+	background: url("background-pattern.jpg") fixed center center no-repeat;
+	background-size: 100% 100%;
+	margin: 0;
+}
+
+.container {
+	background-color: white;
+	width: 80%;
+	margin: 0 auto;
+	overflow:auto;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	margin-left: 1.66%;
+	padding-bottom: 20px;
+	width: 30%;
+	border-bottom: 2px solid #f1f1f1;
+}
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+	display: block;
+}
